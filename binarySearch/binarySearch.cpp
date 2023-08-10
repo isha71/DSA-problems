@@ -1,3 +1,13 @@
+// leetcode 724 - find pivot index
+// codestudio - First and Last Position of an Element In Sorted Array
+// leetcode 852 - Peak Index in a Mountain Array
+// codestudio - Search In Rotated Sorted Array
+// codestudio - Square Root of a number
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
